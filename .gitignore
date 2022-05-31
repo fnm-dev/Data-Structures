@@ -1,4 +1,7 @@
 #Idea files#
 .idea
 *.iml
+.classpath
+.project
 out
+/bin/
